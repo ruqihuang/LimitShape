@@ -1,6 +1,7 @@
 # Limit Shapes – A Tool for Understanding Shape Differences and Variability in 3D Model Collections
 
 This is our implementation of Limit Shape framework. The code was written by Ruqi Huang.
+
 ![LimitShape] (https://github.com/ruqihuang/LimitShape/blob/main/Images/results.png "LimitShape")
 
 ## Setup
