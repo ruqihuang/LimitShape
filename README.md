@@ -3,13 +3,13 @@
 This is our implementation of Limit Shape framework. The code was written by Ruqi Huang.
 
 
-![OperatorNet](https://raw.githubusercontent.com/mrakotosaon/operatornet/master/images/operatornet.png "OperatorNet")
-
-
 ## Setup
 In the demo, we compared two sets of human shapes in different poses (rest vs. bending knee) from FAUST dataset, whose raw mesh representation are stored in '/Data'. Here we assume that the ground-truth correspondence among these shapes are known.  
 
 Simply running 'demo.m' in the main folder will produce the following results, which highlights the distinctive regions with respect to the most significant area distortion and extrinsic distortion. 
+
+![LimitShape](https://raw.githubusercontent.com/ruqihuang/LimitShape/master/Images/results.png "LimitShape")
+
 
 ## Citation
 If you use our work, please cite our paper.
