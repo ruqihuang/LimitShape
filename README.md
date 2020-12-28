@@ -2,7 +2,7 @@
 
 This is our implementation of Limit Shape framework. The code was written by Ruqi Huang.
 
-![LimitShape] (https://github.com/ruqihuang/LimitShape/blob/main/Images/results.png "LimitShape")
+![LimitShape] (https://raw.githubusercontent.com/ruqihuang/LimitShape/master/Images/results.png "LimitShape")
 
 ## Setup
 In the demo, we compared two sets of human shapes in different poses (rest vs. bending knee) from FAUST dataset, whose raw mesh representation are stored in '/Data'. Here we assume that the ground-truth correspondence among these shapes are known.  
